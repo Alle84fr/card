@@ -1,0 +1,74 @@
+@font-face {
+   font-family: "Dr.Marz";
+   src: url(../img/Dr.Marz.otf);
+}
+
+body{
+   background-image: url("../img/Untitled-11.gif");
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   margin: 0;
+   height: 100vh;
+}
+/*fim background*/
+
+*{
+   font-family:"Dr.Marz";
+}
+.conterner{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+      
+}
+.card{
+   background-color: rgb(248, 249, 250);
+   position: relative;
+   margin: 0;
+   top: -45px;
+   width: 45%;
+   max-width: 500px;
+   height: 550px;
+   border-radius: 25%;
+   box-shadow: 7px 8px 25px 5px rgba(0, 0, 0, 0.8);
+   font-size: 2em;
+   
+}
+
+h2{
+   /* padding: 1px; */
+   margin: 0;
+   font-size: 4.5em;
+   color: rgb(222, 226, 230);
+   text-shadow: 7px 8px 7px rgba(0, 0, 0, 1);
+   -webkit-text-stroke: 0.1px rgba(52, 58, 64, 0.4);
+   position: relative;
+   top: 18%;
+}
+
+.cad{
+   color: #9A8C98;
+   position: relative;
+   /* text-shadow: 7px 8px 7px rgba(0, 0, 0, 0.5); */
+   top:65%;
+   left: 15%;
+   font-size: 20px;
+   margin: 0;
+}
+
+.p_imag{
+   position: relative;
+   margin: 0;
+   top: 105%;
+   width: 320px;
+   height: 227px;
+   z-index: 1;
+   border-radius: 60px;
+   box-shadow: 7px 8px 15px 5px rgba(0, 0, 0, 0.6);
+   
+   
+}
