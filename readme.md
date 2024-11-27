@@ -1,3 +1,14 @@
+# Segunda aula reforço Desenvolvimento Web
+
+#### Professor: Carlos Rafael Magalhães Fernandes
+
+- projeto:
+
+Criação de uma Card usando informações encontradas em uma api já existente
+
+HTML:
+
+
 - FONTE
 
 https://www.dafont.com/pt/dr-marz.font?l[]=10&l[]=1&text=disney 
